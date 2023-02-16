@@ -1,5 +1,5 @@
 # 💫 About Me:
-God-awful python dev.<br>Supposed to be learning python.<br>I use Pop!OS btw.
+Beginner python dev.<br>I use Pop!OS btw.
 
 
 ## 🌐 Socials:
