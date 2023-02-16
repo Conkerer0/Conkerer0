@@ -1,5 +1,5 @@
 # 💫 About Me:
-God-awful python dev.<br>Supposed to be learning python & will learn rust-lang afterwards.<br>I use Pop!OS btw.
+God-awful python dev.<br>Supposed to be learning python.<br>I use Pop!OS btw.
 
 
 ## 🌐 Socials:
