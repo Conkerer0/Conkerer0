@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a random insult generator.<br>🌱 I’m currently learning javascript.<br>⚡ I use Pop!OS
+🔭 I’m currently working on a random insult generator.<br>🌱 I’m currently learning javascript.<br>
 
 
 ## 🌐 Socials:
