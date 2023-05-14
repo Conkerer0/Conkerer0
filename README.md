@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a ascii art program.
+🔭 I’m currently working on a nothing.
 
 
 ## 🌐 Socials:
